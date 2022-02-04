@@ -1,3 +1,12 @@
+# -----------------------------------------------------------------------------
+#  PDF file searching headers example
+#
+#  We need to find all headers which contained 'Balance sheet' and
+#  return they number of pages.
+#
+#  Made by Alexey Loik
+# -----------------------------------------------------------------------------
+
 import io
 import os
 
